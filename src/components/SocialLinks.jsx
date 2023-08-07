@@ -64,7 +64,7 @@ const SocialLinks = () => {
            <FaFacebookMessenger size={30} />
         </>
       ),
-      href: "https:m.me/isdoremartin.nwaka",
+      href: "https://m.me/isdoremartin.nwaka",
     },
     {
       id: 3,
