@@ -54,7 +54,7 @@ const SocialLinks = () => {
           <FaLinkedin size={30}/>
         </>
       ),
-      href: "https://linkedin.com/Isdoremartin",
+      href: "https://linkedin.com/in/nwaka-isdore-77b237245",
       
     },
     {
