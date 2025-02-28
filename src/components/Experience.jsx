@@ -47,18 +47,18 @@ const Experience = () => {
       title: "Django",
       style: "shadow-pink-400",
     },
-    {
-      id: 7,
-      src: github,
-      title: "GitHub",
-      style: "shadow-gray-400",
-    },
+    // {
+    //   id: 7,
+    //   src: github,
+    //   title: "GitHub",
+    //   style: "shadow-gray-400",
+    // },
   ];
 
   return (
     <div
       name="experience"
-      className="bg-gradient-to-b from-gray-800 to-black w-full lg:h-screen  md:h-screen"
+      className="bg-gradient-to-b from-gray-800 to-black w-full lg:h-auto  md:h-auto pt-5"
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         <div className="text-center">
